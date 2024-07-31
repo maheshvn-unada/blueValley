@@ -1,0 +1,9 @@
+.container{
+    /* width: 96vw; */
+    /* height: 100vh; */
+    background-color: aqua;
+    display: "flex";
+    align-items: center;
+    justify-content: center;
+    background-size: contain; 
+}
